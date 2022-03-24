@@ -1,12 +1,7 @@
-<img src="https://github.com/Khalid2009/Khalid2009sm/blob/main/IMAGE/khalid2009sm.gif" width="120" height="120" align="left">
-<center>
-  
-  
- 
    ##  MY SOCIAL MEDIA : <br>
 
 <a href="https://Instagram.com/khalid_vau_2009/" target="_blank"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/instagram.png" alt="alt text" width="25" height="25"></a> 
-<a href="https://www.facebook.com/khalid.vau.420" target="_blank"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/facebook.png" alt="alt text" width="25" height="25"></a> <a href="https://youtube.com/MrError69"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/youtube.png" alt="alt text" width="25" height="25"></a> 
+<a href="https://www.facebook.com/khalid.vau.420" target="_blank"><img src="https://github.com/Khalid2009sm/Azim-vau/blob/main/IMAGE/facebook.png" alt="alt text" width="25" height="25"></a> <a href="https://youtube.com/C/KhalidTechBd360"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/youtube.png" alt="alt text" width="25" height="25"></a> 
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;
   
 ____Programming And Memes____
