@@ -55,7 +55,7 @@ $ git clone https://github.com/Khalid2009sm/Bd-Cloner
 #### RUN SCRIPT
 ```python
 $ cd Bd-Cloner
-$ python Bd-Cloner.py
+$ python2 Bd-Cloner.py
 ```
 
 
