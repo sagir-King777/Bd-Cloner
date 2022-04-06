@@ -6,5 +6,5 @@
 ���R���R���(����(����(����(���t���Falset���foot���bart���_t���typet	���func_codet���codet���None(����(����(����s���.Jutt-Badshah.pyt���<module>���s���
 
 	��6�
-	COMPILE BY Sagir Badshah 
+	COMPILE BY Sagir Khan 
 	NOTE :  Dont Try To Decompile its Jutt Badshah Brand
